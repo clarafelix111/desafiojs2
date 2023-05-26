@@ -1,0 +1,11 @@
+input {
+background-color: bisque;
+}
+body {
+background-color: floralwhite;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button {
+background-color: cornsilk;
+border-radius: 20px;
+}
